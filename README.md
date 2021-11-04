@@ -2,25 +2,25 @@
 
 home automation project elaborated in arduino, the complete material with connection diagram is shared
 
-electronic assembly:
+### Electronic assembly:
 
-Relay module connections with arduino and fan:
+### Relay module connections with arduino and fan:
 
 ![alt text](https://github.com/jnates/home_automation/blob/main/connections/screen1.png)
 
-connections for alarm with ultrasonic sensor:
+### Connections for alarm with ultrasonic sensor:
 
 ![alt text](https://github.com/jnates/home_automation/blob/main/connections/screen2.png)
 
-connection of relay modules with 110v bulbs and arduino:
+### Connection of relay modules with 110v bulbs and arduino:
 
 ![alt text](https://github.com/jnates/home_automation/blob/main/connections/screen3.png)
 
-bluetooth module connection:
+### Bluetooth module connection:
 
 ![alt text](https://github.com/jnates/home_automation/blob/main/connections/screen4.png)
 
-Note: the module used in the project was the HC-05
+### Note: the module used in the project was the HC-05
 
 For correct communication between the Arduino, the HC-05 bluetooth module and the device
 bluetooth master, which in this case will be a cell phone, the following must be done
